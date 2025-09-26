@@ -10,3 +10,8 @@ Usecases :
 
 Command to run :
 node VendingMachine.js
+
+Please change your inputs from VendingMachine.js for testing.
+
+1. selectProduct(3); 
+2. vm.insertBills(100) : This will return result, which can be printed.
